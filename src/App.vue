@@ -1,9 +1,13 @@
 <template>
-  <Contador> </Contador>
+  <MainVue></MainVue>
+ 
+  
+
 </template>
 
 <script setup>
-import Contador from './components/Contador.vue';
+
+import  MainVue from './views/MainVue.vue';
 
 </script>
 
